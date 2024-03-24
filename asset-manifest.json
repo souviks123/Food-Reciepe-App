@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c0f71f5.css",
-    "main.js": "/static/js/main.aaf342b1.js",
-    "static/js/453.aa2da994.chunk.js": "/static/js/453.aa2da994.chunk.js",
-    "index.html": "/index.html",
-    "main.9c0f71f5.css.map": "/static/css/main.9c0f71f5.css.map",
-    "main.aaf342b1.js.map": "/static/js/main.aaf342b1.js.map",
-    "453.aa2da994.chunk.js.map": "/static/js/453.aa2da994.chunk.js.map"
+    "main.css": "/Food-Reciepe-App/static/css/main.9c0f71f5.css",
+    "main.js": "/Food-Reciepe-App/static/js/main.b7e115ac.js",
+    "static/js/453.aa2da994.chunk.js": "/Food-Reciepe-App/static/js/453.aa2da994.chunk.js",
+    "index.html": "/Food-Reciepe-App/index.html",
+    "main.9c0f71f5.css.map": "/Food-Reciepe-App/static/css/main.9c0f71f5.css.map",
+    "main.b7e115ac.js.map": "/Food-Reciepe-App/static/js/main.b7e115ac.js.map",
+    "453.aa2da994.chunk.js.map": "/Food-Reciepe-App/static/js/453.aa2da994.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c0f71f5.css",
-    "static/js/main.aaf342b1.js"
+    "static/js/main.b7e115ac.js"
   ]
 }
